@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d9288dc5a4ec1e449ae82f69c546510, type: 3}
+  m_Name: CrystalManagerSettings
+  m_EditorClassIdentifier: 
+  maxCrystalCount: 5
+  spawnInterval: 0.5
+  crystalPrefab: {fileID: 1018537860131290648, guid: abe7cf4d142178c4193efb296d59d4dd, type: 3}
+  spawnMinXPos: -3.5
+  spawnMaxXPos: 3.5
+  spawnMinYPos: 1
+  spawnMaxYPos: 1
+  spawnMinZPos: -6.5
+  spawnMaxZPos: 6.5
